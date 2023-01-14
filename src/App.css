@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,19 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+
+
+
+body{
+  font-family: 'Poppins', sans-serif;
 }
+
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+
