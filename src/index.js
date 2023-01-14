@@ -8,7 +8,7 @@ import reportWebVitals from "./reportWebVitals";
 
 const router = createBrowserRouter([
   {
-    path: "/expice_restaurant",
+    path: "/expice_restaurant/",
     element: <Layout />,
     errorElement: <ErrorPage />,
     children: [
