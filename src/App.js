@@ -13,7 +13,6 @@ function App() {
             <Route path="/home">
               <Layout />
             </Route>
-
             <Route path="/">
               <Layout />
             </Route>
